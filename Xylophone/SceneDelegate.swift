@@ -5,6 +5,8 @@
 //  Created by Angela Yu on 28/06/2019.
 //  Copyright © 2019 The App Brewery. All rights reserved.
 //
+//  Modified and updated by Zakaraya Ashour on June 1, 2024.
+
 
 import UIKit
 
