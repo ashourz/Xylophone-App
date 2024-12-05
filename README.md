@@ -1,4 +1,4 @@
-# My Xylophone App
+# Xylophone App
 App developed as part of The App Brewery's Complete App Development Bootcamp.
 
 # Project Summary
